@@ -1,6 +1,0 @@
-Rencana Konten
-- Membuat Aplikasi Chat dengan android studio
-- Menambahkan fitur  baru
-- Membuat fitur dengan menggunakan bahasa pemograman kotlin
-  - Menambahkan 2 buah textbox dan 1 buah button
-- Menggunakan extensi ktx untuk liblary kotlin  

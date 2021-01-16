@@ -1,0 +1,11 @@
+- menambahkan libabry android jetpack
+ - ktx
+ - mvvm
+ - data binding
+ 
+- Menambahkan fitur baru
+  - work manager
+  - alarm schedular
+  - menambakan textview dan button
+
+ 

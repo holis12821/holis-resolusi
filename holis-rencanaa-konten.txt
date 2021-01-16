@@ -1,3 +1,5 @@
 Rencana Konten
 -Membuat Aplikasi Chat dengan android studio
-- Menambahkan fitur  baru
+- Menambahkan  fitur baru yaitu textView dan autoCommplitTextView 
+- Menambahkan library jetpack
+- membuat aplikasi dengan menggunakan git
